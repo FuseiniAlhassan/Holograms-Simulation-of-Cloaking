@@ -1,8 +1,9 @@
-# 📄 Abstract
+![](refraction_cloak_ray_demo.png)
+
+📄 Abstract
 This project presents a dual-module simulation that explores two foundational concepts in computational optics: ray cloaking and digital holography. The first module models the behavior of parallel light rays as they bend around a circular cloaked region, demonstrating how spatial geometry and refractive principles can redirect optical paths to conceal objects. The second module simulates the formation and reconstruction of a digital hologram, where a circular object interferes with a reference wave to produce an intensity pattern from which the object can be computationally recovered using Fourier techniques.
 Together, these simulations offer a unified framework for visualizing both geometric and wave-based approaches to optical concealment and recovery. The ray tracing module provides intuitive insight into refractive cloaking, while the holography module introduces core principles of interference, diffraction, and inverse reconstruction. An animated ray visualization further enhances interpretability. This project reflects a strong foundation in numerical modeling, wavefront analysis, and scientific visualization—skills essential for graduate-level research in photonics, holography, and computational imaging.
 
-# 📘 README.md
 
 To save animations as MP4, ensure FFmpeg is installed and accessible in your system path.
 
